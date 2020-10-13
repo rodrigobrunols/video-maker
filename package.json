@@ -1,0 +1,23 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "video-maker",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigobrunols/video-maker.git"
+  },
+  "keywords": [
+    "video-maker",
+    "tutorial"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodrigobrunols/video-maker/issues"
+  },
+  "homepage": "https://github.com/rodrigobrunols/video-maker#readme"
+}
